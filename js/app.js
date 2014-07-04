@@ -33,25 +33,42 @@ $( document ).ready(function() {
 			'top': getPosition('#box5').top,
 		});
 		$('#box8').css( {
-			'left': getPosition('#box3').left,
-			'top': getPosition('#box4').top,
-		});
-		$('#box9').css( {
 			'top': getPosition('#box7').top,
 		});
-		$('#box10').css( {
+		$('#box9').css( {
 			'left': getPosition('#box9').left,
 			'top': getPosition('#box3').top,
 		});
 	}
 	
 	 $.imageloader({
-                    urls: [{'url':'http://nick-jonas.github.io/imageloader/images/0.jpg','id':1}, {'url':'http://nick-jonas.github.io/imageloader/images/1.jpg','id':2},
-						  {'url':'http://nick-jonas.github.io/imageloader/images/3.jpg','id':3},{'url':'http://nick-jonas.github.io/imageloader/images/4.jpg','id':4},
-						  {'url':'http://nick-jonas.github.io/imageloader/images/5.jpg','id':5},{'url':'http://nick-jonas.github.io/imageloader/images/6.jpg','id':6},
-						  {'url':'http://nick-jonas.github.io/imageloader/images/7.jpg','id':7},{'url':'http://nick-jonas.github.io/imageloader/images/8.jpg','id':8},
-						  {'url':'http://nick-jonas.github.io/imageloader/images/9.jpg','id':9},{'url':'http://nick-jonas.github.io/imageloader/images/10.jpg','id':10},
-						  {'url':'http://nick-jonas.github.io/imageloader/images/11.jpg','id':1},{'url':'http://nick-jonas.github.io/imageloader/images/12.jpg','id':2}],
+                    urls: [{'url':'http://rajesh-babu.github.io/ImageLoader/images/img01_1.jpg','id':1}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img02_1.jpg','id':1},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img03_2.jpg','id':2}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img04_2.jpg','id':2},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img05_2.jpg','id':2}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img06_3.jpg','id':3},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img07_3.jpg','id':3}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img08_3.jpg','id':3},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img09_3.jpg','id':3}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img10_3.jpg','id':3},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img11_3.jpg','id':3}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img12_1.jpg','id':3},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img13_3.jpg','id':3}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img14_1.jpg','id':3},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img15_3.jpg','id':3}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img16_1.jpg','id':3},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img17_4.jpg','id':4}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img18_4.jpg','id':4},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img19_4.jpg','id':4}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img20_4.jpg','id':4},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img21_4.jpg','id':4}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img22_4.jpg','id':4},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img23_4.jpg','id':4}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img24_4.jpg','id':4},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img25_5.jpg','id':5}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img26_5.jpg','id':5},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img27_5.jpg','id':5}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img28_5.jpg','id':5},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img29_6.jpg','id':6}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img30_6.jpg','id':6},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img31_6.jpg','id':6}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img32_6.jpg','id':6},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img33_6.jpg','id':6}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img34_6.jpg','id':6},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img35_6.jpg','id':6}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img36_6.jpg','id':6},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img37_6.jpg','id':6}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img38_6.jpg','id':6},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img39_6.jpg','id':6}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img40_6.jpg','id':6},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img41_6.jpg','id':6}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img42_6.jpg','id':6},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img43_6.jpg','id':6},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img43_8.jpg','id':8}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img44_8.jpg','id':8},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img45_9.jpg','id':9}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img46_9.jpg','id':9},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img47_9.jpg','id':9}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img48_1.jpg','id':7},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img49_7.jpg','id':7}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img50_7.jpg','id':7},
+						  {'url':'http://rajesh-babu.github.io/ImageLoader/images/img51_7.jpg','id':7}],
 
                     smoothing: true,
 
