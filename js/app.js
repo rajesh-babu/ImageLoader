@@ -66,7 +66,7 @@ $( document ).ready(function() {
 							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img43_6.jpg','id':6},
 							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img43_8.jpg','id':8}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img44_8.jpg','id':8},
 							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img45_9.jpg','id':9}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img46_9.jpg','id':9},
-							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img47_9.jpg','id':9}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img48_1.jpg','id':7},
+							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img47_9.jpg','id':9}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img48_7.jpg','id':7},
 							{'url':'http://rajesh-babu.github.io/ImageLoader/images/img49_7.jpg','id':7}, {'url':'http://rajesh-babu.github.io/ImageLoader/images/img50_7.jpg','id':7},
 						  {'url':'http://rajesh-babu.github.io/ImageLoader/images/img51_7.jpg','id':7}],
 
