@@ -36,7 +36,7 @@ $( document ).ready(function() {
 			'top': getPosition('#box7').top,
 		});
 		$('#box9').css( {
-			'left': getPosition('#box9').left,
+			'left': getPosition('#box8').left,
 			'top': getPosition('#box3').top,
 		});
 	}
