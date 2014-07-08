@@ -1,6 +1,7 @@
 html, body{
 margin: 0 auto;
 height: 100%;
+background-color: #000000;
 }
 #boxContainer{	
 	width: 100%;
@@ -12,59 +13,54 @@ height: 100%;
 #box1{	
 	width: 15%;
 	height: 23%;
-	background-color: #c3b3c3;
+
 }
 #box2{	
 	width: 35%;
 	height: 23%;
-	background-color: #a3b3c3;
+
 }
 #box3{	
 	width: 23%;
 	height: 73%;
-	background-color: #c313c3;
+
 }
 #box4{	
 	width: 27%;
-	height: 50%;
-	background-color: #c3b343;
+	height: 73%;
+
 }
 #box5{	
 	width: 25%;
 	height: 23%;
-	background-color: #000000;
+
 }
 #box6{	
 	width: 25%;
 	height: 50%;
-	background-color: #11b5c3;
+
 }
 #box7{	
 	width: 25%;
 	height: 27%;
-	background-color: #c4c3c3;
+
 }
 #box8{	
-	width: 27%;
-	height: 23%;
-	background-color: #c356f3;
+	width: 50%;
+	height: 27%;
+
 }
 #box9{	
 	width: 50%;
 	height: 27%;
-	background-color: #c3d3c3;
-}
-#box10{	
-	width: 50%;
-	height: 27%;
-	background-color: #a3b3c3;
+
 }
 .boxChild{
 	width: 100%; 
 	height: 100%; 
 	display:block;
 	position: relative;
-	border: 10px solid #FFF;
+	border: 10px solid #000;
 	box-sizing:border-box;
 	-moz-box-sizing:border-box;
 	-webkit-box-sizing:border-box;
