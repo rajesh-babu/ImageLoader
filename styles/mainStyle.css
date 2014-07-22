@@ -9,52 +9,87 @@ background-color: #000000;
 }
 .box{
 	position: absolute;
+	background-color: #c2c2c2;
 }
-#box1{	
+@media all and (max-width: 719px){
+	
+}
+@media all and (min-width: 720px) and (max-width: 959px){
+	#box3{	
+		width: 50%;
+		height: 73%;
+		background-color: #c2c2c2;
+
+	}
+	#box4{	
+		width: 50%;
+		height: 73%;
+		background-color: #c2c2c2;
+
+	}
+	#box9{	
+		width: 100%;
+		height: 27%;
+		background-color: #c2c2c2;
+
+	}
+}
+@media all and (min-width: 960px){
+	#box1{	
 	width: 15%;
 	height: 23%;
+	background-color: #c2c2c2;
 
-}
-#box2{	
-	width: 35%;
-	height: 23%;
+	}
+	#box2{	
+		width: 35%;
+		height: 23%;
+		background-color: #c2c2c2;
 
-}
-#box3{	
-	width: 23%;
-	height: 73%;
+	}
+	#box3{	
+		width: 23%;
+		height: 73%;
+		background-color: #c2c2c2;
 
-}
-#box4{	
-	width: 27%;
-	height: 73%;
+	}
+	#box4{	
+		width: 27%;
+		height: 73%;
+		background-color: #c2c2c2;
 
-}
-#box5{	
-	width: 25%;
-	height: 23%;
+	}
+	#box5{	
+		width: 25%;
+		height: 23%;
+		background-color: #c2c2c2;
 
-}
-#box6{	
-	width: 25%;
-	height: 50%;
+	}
+	#box6{	
+		width: 25%;
+		height: 50%;
+		background-color: #c2c2c2;
 
-}
-#box7{	
-	width: 25%;
-	height: 27%;
+	}
+	#box7{	
+		width: 25%;
+		height: 27%;
+		background-color: #c2c2c2;
 
-}
-#box8{	
-	width: 50%;
-	height: 27%;
+	}
+	#box8{	
+		width: 50%;
+		height: 27%;
+		background-color: #c2c2c2;
 
+	}
+	#box9{	
+		width: 50%;
+		height: 27%;
+		background-color: #c2c2c2;
+	}
 }
-#box9{	
-	width: 50%;
-	height: 27%;
 
-}
 .boxChild{
 	width: 100%; 
 	height: 100%; 
