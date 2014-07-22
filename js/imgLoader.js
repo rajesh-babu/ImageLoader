@@ -86,7 +86,7 @@
         loadCount++;
         options.onError('Error loading image: ' + item.url);
       };	  
-      $('<img/>').attr('src', item.url+"1").load(function(res) {       		
+      $('<img/>').attr('src', item.url).load(function(res) {       		
         if (loadCount === len-1){			
 			options.onComplete();
 			counter = 0;
