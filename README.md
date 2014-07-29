@@ -1,6 +1,6 @@
 ImageLoader
 ===========
-Image slide show using jQuery library – Rotates the images with transition effects. This app will position the images based on the user's screen sizes such as mobile, Tablet and desktop screen. The images will be auto positioned upon the browser resize as well. The images can be configured through JSON file found in folder named ‘data’ in app folder.
+It's an image slide show using jQuery library which rotates the images with transition effects. This app will position the images based on the user's screen sizes such as mobile, Tablet and desktop screen. The images will be auto positioned upon the browser resize as well. The images can be configured through JSON file found in folder named ‘data’ in app folder.
 
 ## Running Locally
 
