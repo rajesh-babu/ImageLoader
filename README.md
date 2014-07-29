@@ -6,7 +6,7 @@ It's an image slide show application using jQuery library which rotates the imag
 
 Make sure you have [Node.js](http://nodejs.org/) 
 
-Open the command prompt go to project folder
+Open the command prompt and go to project folder
 ```sh
 node scripts/web-server.js
 ```
